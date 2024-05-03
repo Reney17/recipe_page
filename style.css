@@ -122,9 +122,10 @@ tr:last-child td {
   border: none;
 }
 .attribution {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   text-align: center;
   margin: 1rem 0;
+  padding: 1rem;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
